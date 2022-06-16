@@ -1,0 +1,28 @@
+{
+  "RequestBody1": {
+    "requestBody1": {
+      "name": "Mentor Labs API",
+      "description": "New playlist description",
+      "public": true
+    }
+  },
+  "RequestBody2": {
+    "requestBody2": {
+      "position":0
+    }
+  },
+  "RequestBodyToken": {
+    "requestToken": {
+      "token": "Bearer BQA9-8PHw0lYy-orYcnUh0mIdXMccFSlEi2ThQcuD6QcleE3feVTnmYgp08YKb40cGIeLWimdkHLlfsJEU9sCR8gK7sAyGQp1Oer8r4U_XFos5bvYgvyhLaQ9t8Io4otB897OnpgQ6YYLRwWr4DbY5tZB-CTFfDq1GoduiIO93cNcMjjrqqQiPYy-HhFtSVMgKilYcMy_DjqDvfx5T7HxxH7wYfGBGx7B4p8"
+    }
+  },
+
+  "User": {
+    "userPage": {
+      "key": "3c77131e989d51104621dcd6adef2e96",
+      "token":  "e7e309e1654bc0eff76c386db5ca3acf0d204ea49bc4d5c0868242f0f029dea2",
+      "url":  "https://api.trello.com"
+
+    }
+  }
+}
